@@ -149,11 +149,11 @@ As you test and optimize, document your findings. Note down what worked, what di
 
 - **Code Comments **: Include comprehensive comments throughout your Python code. Explain the purpose of functions, logic behind critical sections, and meanings of key variables. Use inline comments for complex lines of code to clarify their functionality.
 
-- **Readable Structure **: Organize your code  logically. Group related functionalities into functions or classes and use clear, descriptive names for variables and functions. Ensure your script follows a consistent coding style for ease of reading and maintenance.
+- **Readable Structure **: Organize your code  logically. Group related functionalities into functions or classes and use clear, descriptive names for variables and functions. Please make sure your script follows a consistent coding style for easy reading and maintenance.
 
 ### Writing Lab Report
 
-[Report Documentation](ES_Guidelines_for_Lab_report.md)
+For detailed lab report formatting and submission instructions, refer to the [report guidelines](ES_Guidelines_for_Lab_report.md).
 
 ##### Hand in the report and all necessary working files
 
